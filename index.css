@@ -1,0 +1,9 @@
+body {
+    background-image: url("images/reka.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}

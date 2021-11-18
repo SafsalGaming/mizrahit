@@ -1,0 +1,11 @@
+.div-amongus {
+    position: relative;
+    height: 300px;
+    width: 300px;
+}
+body {
+    background-image: url('images/amongustahat.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
